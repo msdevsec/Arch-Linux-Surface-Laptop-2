@@ -33,4 +33,3 @@ This will make your  keyboard work during LUKS encryption passphrase.
 
 4. Reboot the system login and enjoy your arch on surface device!
 
-Feel free to contact in case any questions.

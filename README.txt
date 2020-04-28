@@ -29,6 +29,8 @@ surface_sam_ssh, surface_sam_vhf intel_lpss and intel_lpss_pci 8250_dw
 
 This will make your  keyboard work during LUKS encryption passphrase.
 
+Save mkinitcpio.conf and update the file.
+
 3. Update your boot manager to load the new kernel settings (grub in my case)
 
-4. Reboot the system login and enjoy your arch on surface device!
+4. Reboot the system load your freshly installed kernel and enjoy your arch on surface device!

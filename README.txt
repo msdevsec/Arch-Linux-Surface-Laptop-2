@@ -32,3 +32,5 @@ This will make your  keyboard work during LUKS encryption passphrase.
 3. Update your boot manager to load the new kernel settings (grub in my case)
 
 4. Reboot the system login and enjoy your arch on surface device!
+
+Feel free to contact in case any questions.
